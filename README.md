@@ -1,4 +1,4 @@
-# rat_race
+# rat_race (in ADS)
 
 Race-Rat Coupler Design and Simulation
 In this repository, we design and simulate a 180-degree Race-Rat coupler for a frequency of 2 GHz using a 4003RO substrate with a thickness of 20 mil, relative dielectric constant (εᵣ) of 3.55, and metal thickness of 18 µm. The characteristic impedance of the ports is set to 50 ohms.
